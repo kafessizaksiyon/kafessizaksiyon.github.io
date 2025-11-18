@@ -1,9 +1,7 @@
 const addresses = [
-    "https://www.themarmarahotels.com/tr/taksim/iletisim",
-    "https://www.themarmarahotels.com/tr/antalya/iletisim",
-    "https://www.themarmarahotels.com/tr/pera/iletisim",
-    "https://www.themarmarahotels.com/tr/suadiye/iletisim",
-    "https://www.themarmarahotels.com/tr/bodrum/iletisim"
+    "https://maps.app.goo.gl/oqYduUSWBq7vxKGj7",
+    "https://maps.app.goo.gl/6kYZbNPynjR4wogr5",
+    "hhttps://maps.app.goo.gl/U9AzEW6pcLZnyqoT7"
     
 
     
